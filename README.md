@@ -29,3 +29,6 @@ Log normalisation
 Regex field extraction  
 Splunk dashboard creation  
 Threat pattern identification  
+
+<img width="1405" height="582" alt="Image" src="https://github.com/user-attachments/assets/8ca4b9c4-a3e9-4513-b83f-865ab93b7c6a" />
+<img width="1394" height="394" alt="Image" src="https://github.com/user-attachments/assets/4b8f0295-0c3f-4014-b005-b596ae262c8e" />
